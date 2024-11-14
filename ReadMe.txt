@@ -10,4 +10,8 @@ textotextotextotextotextotextotextotextotextotexto
 
 ##How To Contribute
 
-##Conclusion
+##Conclusión
+
+##Bibliography
+
+##Annex
